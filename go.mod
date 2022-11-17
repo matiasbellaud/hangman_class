@@ -1,3 +1,3 @@
-module github.com/matiasbellaud/hangman_class
+module hangman
 
 go 1.18
